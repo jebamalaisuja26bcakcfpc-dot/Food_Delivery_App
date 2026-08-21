@@ -1,4 +1,4 @@
-Prototype link : https://www.figma.com/proto/P8OARbkvm5aX9u0LpISWDI/Food-Delivery-App?node-id=0-1&t=Z4H6YSzWLLSZTSqw-1
+Prototype link : https://www.figma.com/proto/P8OARbkvm5aX9u0LpISWDI/Food-Delivery-App?node-id=87-8&t=Z4H6YSzWLLSZTSqw-1
 🍔 Foodie – Food Delivery App
 📌 Project Overview
 Foodie is a user-friendly food delivery application designed to make ordering food simple, quick, and convenient. The application allows users to search for restaurants and food items, explore menus, add items to the cart, enter delivery details, and place orders easily.
